@@ -1,0 +1,11 @@
+{
+  "pub_date": "2026-10-19T19:20:47Z",
+  "notes": "Ophira Auto-Updates",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/tubefinn7-arch/ophira-launcher-service/releases/download/v1.0.19/Ophira-1.0.19-Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS002bE9NSmozOW5heWdUOW9IcnlTTEpoMzIzSW4ycENNb3NlcEpJRGhNZU5jQk5aZnlnVGxveWRLWW5Cem1rTlBWNmx5K1ovdkVyNWI0aU1YRHhCQlRLTlc0b2NtRUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDM2Njg3CWZpbGU6T3BoaXJhLTEuMC4xOS1TZXR1cC5leGUJdmVyc2lvbjoxLjAuMTkKZjZlamRhKzZaaDMvMUFkK3UvdXFoRnVLcVJZUmdZcW56TW5oNmtHZDZQZ2dBWFhKa21ZV0h3NDN6dmExUDZ3ZzRrU3FQVGc2ZXdQN25PV296ODFzREE9PQo="
+    }
+  },
+  "version": "1.0.19"
+}
